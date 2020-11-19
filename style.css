@@ -1,0 +1,83 @@
+#navbar{
+    background-color: rgb(102, 91, 76);
+    
+
+}
+
+.nav-link{
+    color: aliceblue;
+}
+img{
+    width: 18pc;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#head1,#head2{
+    font-size: 55px;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+#intro{
+    background-color: lightblue;
+    width: 100%;
+    height: 600px;
+    margin-top: 0%;
+    
+}
+#careerimg,#eduimg,#skillimg ,#perimg,#projectimg,#actimg,#perdetails,#decimg{
+    width: 3pc;
+}
+.labels{
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 30px;
+    width: auto;
+    text-align: left;
+    color:black
+    
+    height: 50px;
+
+}
+
+#careerdiv{
+    background-color: cornsilk;
+}
+p{
+    font-size: 25px;
+    padding: 20px;
+    
+}
+
+table{
+    padding: 10px;
+    width: 70%;
+    height: 300px;
+    border: 20px crimson;
+    text-align: center;
+    font: 1em sans-serif;
+    font-weight: bold;
+}
+#foot{
+    
+        background-color: #66BFBF;
+        padding: 50px 0 20px;
+        text-align: center;
+    
+      
+}
+#education,#activitydiv{
+    background-color: khaki;
+}
+#decdiv{
+    background-color: lightgoldenrodyellow;
+}
+#techskilldiv,projectdiv{
+    background-color: cornsilk;
+}
+#personalskilldiv,#perdiv{
+    background-color: lightblue;
+}
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
